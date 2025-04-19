@@ -1,0 +1,1 @@
+Error occurred: No connection adapters were found for 'happ://crypt/OGLL8OoW28wbAI5ozVJlpHcY+VGpAl4L1zJmtxOsZML7vv5KFoyb5NyHcTUvFmgoNfpq6J4O6rQJR3qT6MNNJMlsudxwul2LusA+ohfwAI2b2myNLfZ2AXFPaKhJ5xApF6ZFJlLC4J6MjA0e6J4uWOAEa6yWuOwsTwClZyGIyvo=' 🚨
